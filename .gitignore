@@ -1,0 +1,8 @@
+*
+!.gitignore
+!main.tf
+!outputs.tf
+!variables.tf
+!Dockerfile
+!README.md 
+!index.html
