@@ -52,6 +52,7 @@ After that I created two terraform files with tf file format. Main.tf file has
 1. terraform init
 2. terraform apply
 3. enter values
+ ![alt text](https://github.com/batonck/virtuslab-intern-task/blob/master/entering_values.png)
 4. type "yes" to apply 
 
 
